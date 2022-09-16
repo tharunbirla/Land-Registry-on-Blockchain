@@ -136,3 +136,7 @@ Import `./database/langregistry.sql` in MySQL workstation
 ![8](./screenshots/8.PNG)
 - Buyer search land page
 ![9](./screenshots/9.PNG)
+
+### Todo
+- [ ] Land buyind request
+- [ ] Ownership transfer
