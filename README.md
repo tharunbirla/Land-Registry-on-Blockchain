@@ -36,7 +36,7 @@ History demonstrates that modified original papers are used to create duplicate 
 
 ## Proposed System
 
-The Bockchain has been implemented in this system to speed up the execution of land registration and ownership transfer.
+The Blockchain has been implemented in this system to speed up the execution of land registration and ownership transfer.
 By using smart contracts, certain events may be made to automatically request changes in land records, such as when a property is registered, and they can alter rights and obligations when a bank approves a loan.
 The procedure is carried out in the following 5 steps: 
 
